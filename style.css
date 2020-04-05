@@ -1,0 +1,25 @@
+h1 {
+    color: purple;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    background: yellow;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+p {
+    margin-left: 30px; 
+}
